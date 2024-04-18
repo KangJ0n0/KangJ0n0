@@ -1,7 +1,4 @@
 # 💫 About Me:
-<img src="https://komarev.com/ghpvc/?username=KangJ0n0&label=Profile%20Views&color=42b883&style=flat" alt="ezaatama" />
-</p>
-
 🌱 I’m currently learning about web and game development, be honest—I'm feeling a bit overwhelmed. It's like diving into an ocean with so much to learn and so little time. But despite the challenges, I'm determined to grasp this skill and make something of it.
 
 ## 🌐 Socials:
