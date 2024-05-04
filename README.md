@@ -12,7 +12,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp;
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp;
 
 
 
