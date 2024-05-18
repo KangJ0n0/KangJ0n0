@@ -25,10 +25,10 @@
 
 
 - 👨🏻‍💻 I’m currently study as Informatics Student at Jenderal Soedirman University.
-- 🌍 I'm based in Central Java, Indonesia.
 - 📝 I react to how the world is evolving by learning about React.
+- 🌍 Based in Central Java, Indonesia.
 - 📠 Currently focusing on learning embedded systems. 
-- 🤝  I'm open to collaborating on Any opportunity.
+- 🤝 Open to collaborating on Any opportunity.
 - 🎯 Goals:  <br>
     <img src="https://cdn.sazumi.moe/file/ryaca6.png" width="50%"   >
 
