@@ -30,7 +30,7 @@
 - 📠 Currently focusing on learning embedded systems. 
 - 🤝 Open to collaborating on Any opportunity.
 - 🎯 Goals:  <br>
-    <img src="https://cdn.sazumi.moe/file/ryaca6.png" width="50%"   >
+    <img src="https://cdn.sazumi.moe/file/ryaca6.png" width="100%"   >
 
 
    
