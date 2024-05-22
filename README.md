@@ -23,8 +23,6 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KangJ0n0&theme=github_dark&)
-
 
 
 
