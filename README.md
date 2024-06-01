@@ -16,10 +16,16 @@
 - 🤝 Open to collaborating on Any opportunity.
 <details> 
   <summary>My Statistics</summary>
-<br>
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) &nbsp; &nbsp;
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=KangJ0n0&show_icons=true&theme=ayu-mirage&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&hide=html,css,java,shaderlab,kotlin,hlsl&theme=ayu-mirage">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KangJ0n0&show_icons=true&locale=en&layout=compact&theme=ayu-mirage&line_height=0" />
+</p> 
 
 
 
