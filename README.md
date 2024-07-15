@@ -20,7 +20,7 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=KangJ0n0&show_icons=true&theme=ayu-mirage&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&hide=html,css,java,shaderlab,kotlin,hlsl&theme=ayu-mirage">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangJ0n0&hide=Jupyter%20Notebook&theme=ayu-mirage">
 </p>
 
 <p align = "center">
