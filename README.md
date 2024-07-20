@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm [Afif](https://github.com/KangJ0n0)! <img src="https://cdn.sazumi.moe/file/zsdrto.gif" width="22">
+## Hi there, I'm [Jono](https://github.com/KangJ0n0)! <img src="https://cdn.sazumi.moe/file/zsdrto.gif" width="22">
 
 
 
