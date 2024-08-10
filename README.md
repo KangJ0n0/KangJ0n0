@@ -12,7 +12,7 @@
 - 👨🏻‍💻 I’m currently study as Informatics Student at Jenderal Soedirman University.
 - 📝 I react to how the world is evolving by learning about React.
 - 🌍 Based in Central Java, Indonesia.
-- 📠 Currently focusing on learning Game Development. 
+- 🎮 Currently focusing on learning Game Development. 
 - 🤝 Open to collaborating on Any opportunity.
 <details> 
   <summary>My Statistics</summary>
